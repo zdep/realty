@@ -9,7 +9,7 @@
 
 ## Запуск
 
-- Склонировать репозиторий (get clone https://github.com/zzdep/realty realty.local)
+- Склонировать репозиторий (get clone https://github.com/zdep/realty realty.local)
 - Скопировать .env.dep в .env
 - composer install
 - php artisan migrate
